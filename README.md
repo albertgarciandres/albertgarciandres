@@ -42,6 +42,7 @@
   <a href="https://github.com/albertgarciandres">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertgarciandres&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
+  <img src="https://img.shields.io/github/followers/albertgarciandres?style=social" />  
 </p>
 </details>
 
