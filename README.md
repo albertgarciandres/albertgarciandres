@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/albertgarciandres">
-    <img src="https://komarev.com/ghpvc/?username=albertgarciandres&color=blue&style=flat)" />
+    <img src="https://img.shields.io/github/watchers/albertgarciandres?style=social)" />
     <img src="https://img.shields.io/github/followers/albertgarciandres?style=social" />   
   </a>
 </p>
