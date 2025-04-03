@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Albert.<br>
-        Currently studying a bachelor degree in Bioinformatics.<br>
+        A Bioinformatician based in Barcelona.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/albert-garcia-andr%C3%A9s-076588270/">
