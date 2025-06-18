@@ -33,12 +33,6 @@
   <a href="https://github.com/albertgarciandres">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertgarciandres&theme=transparent" />
   </a>
-  <a href="https://github.com/albertgarciandres">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertgarciandres&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/albertgarciandres">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=albertgarciandres&theme=transparent" />
-  </a>
  
 </p>
 </details>
